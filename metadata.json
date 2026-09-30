@@ -1,0 +1,6 @@
+{
+  "name": "แดชบอร์ดยอดขายและกำไร น้ำพริก & เครื่องจักร",
+  "description": "แดชบอร์ดวิเคราะห์ยอดขาย กำไรสุทธิ และสัดส่วนแพลตฟอร์ม สำหรับธุรกิจน้ำพริกและเครื่องจักร พร้อมเชื่อมต่อ Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
